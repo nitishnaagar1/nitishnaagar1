@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @nitishnaagar1
+- 👀 I’m interested in python pygame , django etc.
+- 🌱 I’m currently learning python 
+- 💞️ I’m looking to collaborate on pygame , django
+- 📫 How to reach me  my email is 000nikhilnagar@gmail.com
